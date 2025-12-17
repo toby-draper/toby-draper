@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I’m Toby 👋
 
-<!--
-**toby-draper/toby-draper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **UVA (2nd year)**  
+📚 Double major in **Data Science** + **Economics**  
+🇫🇷 **French minor**  
+🔎 Passionate about using data to **uncover insights** and tell clear stories
 
-Here are some ideas to get you started:
+## 🧠 Currently learning
+📊 Statistics & Probability  
+📈 Data Visualization  
+🐍 Python  
+🗄️ SQL  
+💻 Bash  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 What I like building
+✨ Clean, reproducible projects  
+🧼 Data cleaning + exploration  
+🧾 Visuals that make results easy to understand  
+
+## 📫 Connect
+- LinkedIn: <https://www.linkedin.com/in/tobias-draper-60a3a734b/>
+- Email: <urc9sx@virginia.edu>
