@@ -1,6 +1,6 @@
 # Toby Draper
 
-I'm a third-year Data Science major at UVA, with minors in French and Economics. I'm especially drawn to AI and applied machine learning, and to projects that turn real data into something useful.
+I'm a third-year Data Science major at UVA, with minors in French and Economics. I'm especially drawn to AI and applied machine learning, and projects that turn real data into useful information.
 
 Right now I'm interning at **greensee.ai**, a climate-tech startup in Aix-en-Provence, where I work entirely in French. (The codebase, the meetings, and the coffee breaks are all in French.) Most of my recent code comes out of that work, and the two projects I'm building this summer are below.
 
