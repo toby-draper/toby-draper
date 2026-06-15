@@ -1,35 +1,13 @@
-# Hey, I'm Toby
+# Toby Draper
 
-I'm a third-year Data Science major at UVA, with minors in French and Economics. Most of my time goes to data and ML projects, plus a fair amount of tennis, lacrosse, and music production when I'm away from a laptop.
+I'm a third-year Data Science major at UVA, with minors in French and Economics. I'm especially drawn to AI and applied machine learning, and to projects that turn real data into something useful.
 
-This summer I'm in Aix-en-Provence interning at **greensee.ai**, a climate-tech startup, working in French. That's where most of my recent code is coming from.
+Right now I'm interning at **greensee.ai**, a climate-tech startup in Aix-en-Provence, where I work entirely in French. (The codebase, the meetings, and the coffee breaks are all in French.) Most of my recent code comes out of that work, and the two projects I'm building this summer are below.
 
----
+On the research side, I'm looking to get involved with machine learning research at UVA, ideally working with faculty on applied AI problems. I want research experience that complements the engineering I do day to day and pushes me deeper into the methods behind the models I use.
 
-## What I'm working on right now
+Feel free to reach me at [urc9sx@virginia.edu](mailto:urc9sx@virginia.edu) or on [LinkedIn](https://www.linkedin.com/in/tobias-draper-60a3a734b/).
 
-**FLITS — shipping impact web app** *(in progress)*
-Building an MVP that computes profit, revenue, cost, and emissions from changes a user makes to a fruit shipping process. Writing the computational models in Python, porting them to TypeScript/JavaScript, and wiring them into the frontend.
-`Python` · `TypeScript` · `JavaScript`
-
-**Energy prediction model** *(in progress)*
-Training and comparing models to predict shipping-journey energy use from weather forecast data. Currently working through data prep and model selection.
-`Python` · `scikit-learn` · `pandas`
-
-> Both projects are active and evolving. Repos and write-ups will fill in as the work ships.
-
----
-
-## Tools I work with
-
-- **Programming:** Python, SQL, TypeScript/JavaScript
-- **Libraries:** pandas, NumPy, scikit-learn, seaborn, matplotlib
-- **Tools:** Git, Bash, Docker, Azure
-- **Languages:** French (fluent), English (native)
-
----
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/tobias-draper-60a3a734b/
-- Email: urc9sx@virginia.edu
+- I'm building **FLITS**, an MVP web app that models the profit, revenue, cost, and emissions impact of changes to a fruit shipping process. I write the calculations in Python, port them through TypeScript to JavaScript, and wire them into the frontend.
+- I'm training models to predict shipping energy use from weather forecast data, working through data prep and model selection right now.
+- Ask me about data science, machine learning, or doing technical work entirely in French.
